@@ -1,12 +1,10 @@
 [
   {
     "name": {
-      "en": "Cozy garden guest house with gym",
-      "cs": "Klidný zahradní domek s fitness"
+      "en": "Cozy garden guest house with gym"
     },
     "description": {
-      "en": "Beautiful bright garden house 20 minutes by car or 25 minutes by public transport from the center of Prague. The house is prepared for your comfort and equipped with everything you will need for your stay, plus an entire fitness area instead of a regular living area. Parking directly in the area is possible. You will love the view of our beautiful garden along with the river a few steps from the house and lots of nature nearby. You will be in a complete oasis of peace.",
-      "cs": "Krásný světlý zahradní domek ve vzdálenosti 20 minut autem nebo 25 minut hromadnou dopravou od centra Prahy. Domek je připraven pro váš komfort a vybaven vším, co budete pro pobyt potřebovat plus vybaveni celou fitness částí místo běžného obývacího prostoru. Parkování přímo v areálu možné. Zamilujete si výhled do naší krásné zahrady spolu s řekou pár kroků od domu a spoustou přírody poblíž. Budete v naprosté oáze klidu."
+      "en": "Beautiful bright garden house 20 minutes by car or 25 minutes by public transport from the center of Prague. The house is prepared for your comfort and equipped with everything you will need for your stay, plus an entire fitness area instead of a regular living area. Parking directly in the area is possible. You will love the view of our beautiful garden along with the river a few steps from the house and lots of nature nearby. You will be in a complete oasis of peace."
     },
     "type": "apartment",
     "minimum_stay": 5,
@@ -32,52 +30,14 @@
       }
     },
     "listing_url": {
-      "cs": "pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "sk": "prenajom/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "de-AT": "mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "de-DE": "mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "en": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "en-GB": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "es": "alquiler/piso/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "nl": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "ru": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "pl": "dzierzawa/apartament/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "hu": "rent/apartment/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "pt-PT": "oferta/apartamento/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "th": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "hr": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "bg": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
+      "cs": "pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
     },
     "full_listing_url": {
-      "cs": "https://www.flatio.cz/pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "sk": "https://www.flatio.sk/prenajom/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "de-AT": "https://www.flatio.at/mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "de-DE": "https://www.flatio.de/mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "en": "https://www.flatio.com/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "en-GB": "https://www.flatio.co.uk/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "es": "https://www.flatio.es/alquiler/piso/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "nl": "https://www.flatio.nl/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "ru": "https://ru.flatio.com/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "pl": "https://www.flatio.pl/dzierzawa/apartament/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "hu": "https://www.flatio.hu/rent/apartment/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "pt-PT": "https://www.flatio.pt/oferta/apartamento/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "th": "https://www.flatio.co.th/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "hr": "https://www.flatio.hr/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
-      "bg": "https://www.flatio.bg/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
+      "cs": "https://www.flatio.cz/pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
     },
     "listing_code": 105073,
     "occupied_dates": [],
     "cancellation_policy": "neighbourly",
-    "cancellation_policy_text": {
-      "pt": "Se cancelar a sua reserva 14 dias ou mais antes da data de mudança, receberá um reembolso da totalidade da primeira renda.\n\nSe cancelar a sua reserva até 7 dias antes da data de mudança, receberá um reembolso de metade da primeira renda.\n\nSe cancelar a sua reserva menos de 6 dias antes da data de mudança, não obterá o reembolso da primeira renda.\n\n",
-      "es": "Si cancelas tu reserva 14 o más días antes de entrar, te reembolsaremos por completo el primer alquiler.\n\nSi cancelas tu reserva  hasta 7 días antes de entrar, te reembolsaremos un 50%  del primer alquiler.\n\nSi cancelas tu reserva menos de 6 días antes de entrar, no te reembolsaremos  el primer alquiler.\n\n",
-      "hu": "Abban az esetben, ha lemondja a foglalást 14 vagy több nappal a beköltözés előtt, akkor visszatérítjük a teljes első havi bérleti díjat.\n\nAbban az esetben, ha lemondja a foglalást 7 nappal a beköltözés előtt, akkor visszatérítjük az első havi bérleti díj felét.\n\nAbban az esetben, ha lemondja a foglalást kevesebb mint 6 nappal a beköltözés előtt, nem térítjük vissza az első havi bérleti díjat.\n\n",
-      "en": "If you cancel your reservation 14 days or more before the move-in date, you’ll get a refund of the entire first rent.\n\nIf you cancel your reservation up to 7 days before the move-in date, you’ll get a refund of half of the first rent.\n\nIf you cancel your reservation less than 6 days before the move-in date, you won’t get a refund of the first rent.\n\n",
-      "cs": "Pokud svou rezervaci zrušíte 14 nebo více dnů před nastěhováním, vrátíme vám první nájem v plné výši.\n\nPokud svou rezervaci zrušíte do 7 dnů před nastěhováním, vrátíme vám polovinu prvního nájmu.\n\nPokud svou rezervaci zrušíte méně než 6 dnů před nastěhováním, první nájem nevracíme.\n\n",
-      "ru": "[VOID]\n\n",
-      "de": "[VOID]\n\n",
-      "pl": "[VOID]\n\n"
-    },
     "amenities": {
       "wifi": "yes",
       "ac": "no",
@@ -158,38 +118,7 @@
       }
     },
     "listing_url": {
-      "cs": "pronajem/bytu/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "sk": "prenajom/bytu/porto-2+1-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "de-AT": "mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "de-DE": "mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "en": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "en-GB": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "es": "alquiler/piso/oporto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "nl": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "ru": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "pl": "dzierzawa/apartament/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "hu": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "pt-PT": "oferta/apartamento/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "th": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "hr": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "bg": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
-    },
-    "full_listing_url": {
-      "cs": "https://www.flatio.cz/pronajem/bytu/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "sk": "https://www.flatio.sk/prenajom/bytu/porto-2+1-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "de-AT": "https://www.flatio.at/mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "de-DE": "https://www.flatio.de/mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "en": "https://www.flatio.com/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "en-GB": "https://www.flatio.co.uk/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "es": "https://www.flatio.es/alquiler/piso/oporto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "nl": "https://www.flatio.nl/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "ru": "https://ru.flatio.com/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "pl": "https://www.flatio.pl/dzierzawa/apartament/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "hu": "https://www.flatio.hu/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "pt-PT": "https://www.flatio.pt/oferta/apartamento/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "th": "https://www.flatio.co.th/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "hr": "https://www.flatio.hr/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
-      "bg": "https://www.flatio.bg/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
+      "en": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
     },
     "listing_code": 95888,
     "occupied_dates": [
@@ -198,17 +127,6 @@
         "to": "2024-08-14"
       }
     ],
-    "cancellation_policy": "neighbourly",
-    "cancellation_policy_text": {
-      "pt": "Se cancelar a sua reserva 14 dias ou mais antes da data de mudança, receberá um reembolso da totalidade da primeira renda.\n\nSe cancelar a sua reserva até 7 dias antes da data de mudança, receberá um reembolso de metade da primeira renda.\n\nSe cancelar a sua reserva menos de 6 dias antes da data de mudança, não obterá o reembolso da primeira renda.\n\n",
-      "es": "Si cancelas tu reserva 14 o más días antes de entrar, te reembolsaremos por completo el primer alquiler.\n\nSi cancelas tu reserva  hasta 7 días antes de entrar, te reembolsaremos un 50%  del primer alquiler.\n\nSi cancelas tu reserva menos de 6 días antes de entrar, no te reembolsaremos  el primer alquiler.\n\n",
-      "hu": "Abban az esetben, ha lemondja a foglalást 14 vagy több nappal a beköltözés előtt, akkor visszatérítjük a teljes első havi bérleti díjat.\n\nAbban az esetben, ha lemondja a foglalást 7 nappal a beköltözés előtt, akkor visszatérítjük az első havi bérleti díj felét.\n\nAbban az esetben, ha lemondja a foglalást kevesebb mint 6 nappal a beköltözés előtt, nem térítjük vissza az első havi bérleti díjat.\n\n",
-      "en": "If you cancel your reservation 14 days or more before the move-in date, you’ll get a refund of the entire first rent.\n\nIf you cancel your reservation up to 7 days before the move-in date, you’ll get a refund of half of the first rent.\n\nIf you cancel your reservation less than 6 days before the move-in date, you won’t get a refund of the first rent.\n\n",
-      "cs": "Pokud svou rezervaci zrušíte 14 nebo více dnů před nastěhováním, vrátíme vám první nájem v plné výši.\n\nPokud svou rezervaci zrušíte do 7 dnů před nastěhováním, vrátíme vám polovinu prvního nájmu.\n\nPokud svou rezervaci zrušíte méně než 6 dnů před nastěhováním, první nájem nevracíme.\n\n",
-      "ru": "[VOID]\n\n",
-      "de": "[VOID]\n\n",
-      "pl": "[VOID]\n\n"
-    },
     "amenities": {
       "wifi": "yes",
       "ac": "no",
