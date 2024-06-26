@@ -1,0 +1,262 @@
+[
+  {
+    "name": {
+      "en": "Cozy garden guest house with gym",
+      "cs": "Klidný zahradní domek s fitness"
+    },
+    "description": {
+      "en": "Beautiful bright garden house 20 minutes by car or 25 minutes by public transport from the center of Prague. The house is prepared for your comfort and equipped with everything you will need for your stay, plus an entire fitness area instead of a regular living area. Parking directly in the area is possible. You will love the view of our beautiful garden along with the river a few steps from the house and lots of nature nearby. You will be in a complete oasis of peace.",
+      "cs": "Krásný světlý zahradní domek ve vzdálenosti 20 minut autem nebo 25 minut hromadnou dopravou od centra Prahy. Domek je připraven pro váš komfort a vybaven vším, co budete pro pobyt potřebovat plus vybaveni celou fitness částí místo běžného obývacího prostoru. Parkování přímo v areálu možné. Zamilujete si výhled do naší krásné zahrady spolu s řekou pár kroků od domu a spoustou přírody poblíž. Budete v naprosté oáze klidu."
+    },
+    "type": "apartment",
+    "minimum_stay": 5,
+    "maximum_stay": 120,
+    "price": {
+      "currency": "EUR",
+      "value": 1522
+    },
+    "security_deposit_for_6_months_stay_and_longer": {
+      "currency": "EUR",
+      "value": 0
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 50,
+    "location": {
+      "city": "Prague",
+      "address": "Žitavského 517",
+      "country": "cz",
+      "geocoordinates": {
+        "lat": 49.9711436,
+        "lng": 14.3943207
+      }
+    },
+    "listing_url": {
+      "cs": "pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "sk": "prenajom/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "de-AT": "mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "de-DE": "mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "en": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "en-GB": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "es": "alquiler/piso/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "nl": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "ru": "rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "pl": "dzierzawa/apartament/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "hu": "rent/apartment/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "pt-PT": "oferta/apartamento/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "th": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "hr": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "bg": "offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
+    },
+    "full_listing_url": {
+      "cs": "https://www.flatio.cz/pronajem/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "sk": "https://www.flatio.sk/prenajom/bytu/praha-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "de-AT": "https://www.flatio.at/mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "de-DE": "https://www.flatio.de/mieten/wohnungen/prag-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "en": "https://www.flatio.com/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "en-GB": "https://www.flatio.co.uk/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "es": "https://www.flatio.es/alquiler/piso/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "nl": "https://www.flatio.nl/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "ru": "https://ru.flatio.com/rent/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "pl": "https://www.flatio.pl/dzierzawa/apartament/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "hu": "https://www.flatio.hu/rent/apartment/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "pt-PT": "https://www.flatio.pt/oferta/apartamento/praga-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "th": "https://www.flatio.co.th/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "hr": "https://www.flatio.hr/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick",
+      "bg": "https://www.flatio.bg/offer/apartment/prague-107532utm_content=105073&utm_medium=referral&utm_source=nestpick"
+    },
+    "listing_code": 105073,
+    "occupied_dates": [],
+    "cancellation_policy": "neighbourly",
+    "cancellation_policy_text": {
+      "pt": "Se cancelar a sua reserva 14 dias ou mais antes da data de mudança, receberá um reembolso da totalidade da primeira renda.\n\nSe cancelar a sua reserva até 7 dias antes da data de mudança, receberá um reembolso de metade da primeira renda.\n\nSe cancelar a sua reserva menos de 6 dias antes da data de mudança, não obterá o reembolso da primeira renda.\n\n",
+      "es": "Si cancelas tu reserva 14 o más días antes de entrar, te reembolsaremos por completo el primer alquiler.\n\nSi cancelas tu reserva  hasta 7 días antes de entrar, te reembolsaremos un 50%  del primer alquiler.\n\nSi cancelas tu reserva menos de 6 días antes de entrar, no te reembolsaremos  el primer alquiler.\n\n",
+      "hu": "Abban az esetben, ha lemondja a foglalást 14 vagy több nappal a beköltözés előtt, akkor visszatérítjük a teljes első havi bérleti díjat.\n\nAbban az esetben, ha lemondja a foglalást 7 nappal a beköltözés előtt, akkor visszatérítjük az első havi bérleti díj felét.\n\nAbban az esetben, ha lemondja a foglalást kevesebb mint 6 nappal a beköltözés előtt, nem térítjük vissza az első havi bérleti díjat.\n\n",
+      "en": "If you cancel your reservation 14 days or more before the move-in date, you’ll get a refund of the entire first rent.\n\nIf you cancel your reservation up to 7 days before the move-in date, you’ll get a refund of half of the first rent.\n\nIf you cancel your reservation less than 6 days before the move-in date, you won’t get a refund of the first rent.\n\n",
+      "cs": "Pokud svou rezervaci zrušíte 14 nebo více dnů před nastěhováním, vrátíme vám první nájem v plné výši.\n\nPokud svou rezervaci zrušíte do 7 dnů před nastěhováním, vrátíme vám polovinu prvního nájmu.\n\nPokud svou rezervaci zrušíte méně než 6 dnů před nastěhováním, první nájem nevracíme.\n\n",
+      "ru": "[VOID]\n\n",
+      "de": "[VOID]\n\n",
+      "pl": "[VOID]\n\n"
+    },
+    "amenities": {
+      "wifi": "yes",
+      "ac": "no",
+      "sauna": "no",
+      "heating": "yes",
+      "balcony": "no",
+      "tv": "yes",
+      "elevator": "no",
+      "garage": "no",
+      "wheelchair_accessible": "yes",
+      "whirlpool": "no",
+      "terrace": "no",
+      "dishwasher": "yes",
+      "washing_machine": "no",
+      "dryer": "no",
+      "wardrobe": "yes",
+      "desk": "no",
+      "central_heating": "no",
+      "iron": "no",
+      "ironing_board": "no",
+      "dishes": "yes",
+      "cutlery": "yes",
+      "glasses": "yes",
+      "oven": "no",
+      "coffee_maker": "no",
+      "fridge": "yes",
+      "microwave": "yes",
+      "shower": "yes",
+      "bath": "no",
+      "bidet": "no"
+    },
+    "person_capacity": 2,
+    "guest_controls": {
+      "allows_children": true,
+      "allows_infants": true,
+      "allows_pets": false,
+      "allows_smoking": false,
+      "allows_events": false,
+      "suitable_for_families_with_children": true,
+      "check_in_time": "11:00",
+      "check_out_time": "17:00"
+    },
+    "photos": [
+      "https://flatiocdn.vshcdn.net/zoh4eiLi/IMG/2592000/NMjuHpf_dnFsDrkL3qY2mt4vZJvH_iY2A4ziG0xYTn8/resize:fill:1000:0:1/gravity:ce/quality:90/aHR0cHM6Ly9hcHAuZmxhdGlvLmNvbS9jZG4vdXBsb2FkLzIvMjcvMjc5LzI3OTgvMjc5OGEyODM4YTRjMzFkYTE2NjliNmI1YTY5YWMyMDEuanBn",
+      "https://flatiocdn.vshcdn.net/zoh4eiLi-broken/IMG/2592000/nk0BLZnOYjWbuLXjoBMExYUHCDmORUE94nSU7wNmYsE/resize:fill:1000:0:1/gravity:ce/quality:90/aHR0cHM6Ly9hcHAuZmxhdGlvLmNvbS9jZG4vdXBsb2FkL2QvZDcvZDdiL2Q3YjYvZDdiNjljNTQzYTZmOTA3NWZlODFiNzQxMjdjZWMzNGMuanBn"
+    ],
+    "updated_at": "2024-05-24",
+    "created_at": "2024-05-12"
+  },
+  {
+    "name": {
+      "pt": "T1. 5-minute walk from the Dragão metro station"
+    },
+    "description": {
+      "pt": "Located in Praça da Corujeira, in a typical and welcoming neighborhood with a large public garden. A five-minute walk from the Dragão metro station. Building built in 2021. Contemporary and light decor.\nFully equipped kitchen. Double bed (160cm large). Room with television. Wi.fi. 2 persons capacity only.\n--------------------------------------------------------\nSituado na praça da Corujeira, num bairro típico e acolhedor com um grande jardim público. A cinco minutos a pé do metro do Dragão. Prédio construído em 2021. Decoração contemporânea e leve.\nCozinha totalmente equipada. Cama de casal (160cm de largura). Sala com televisão. Wi.fi. Capacidade para 2 pessoas."
+    },
+    "type": "apartment",
+    "minimum_stay": 5,
+    "maximum_stay": 60,
+    "price": {
+      "currency": "EUR",
+      "value": 1729
+    },
+    "security_deposit_for_6_months_stay_and_longer": {
+      "currency": "EUR",
+      "value": 0
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 70,
+    "location": {
+      "city": "Porto",
+      "address": "Praça da Corujeira",
+      "country": "pt",
+      "geocoordinates": {
+        "lat": 41.1573847,
+        "lng": -8.5798152
+      }
+    },
+    "listing_url": {
+      "cs": "pronajem/bytu/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "sk": "prenajom/bytu/porto-2+1-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "de-AT": "mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "de-DE": "mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "en": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "en-GB": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "es": "alquiler/piso/oporto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "nl": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "ru": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "pl": "dzierzawa/apartament/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "hu": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "pt-PT": "oferta/apartamento/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "th": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "hr": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "bg": "offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
+    },
+    "full_listing_url": {
+      "cs": "https://www.flatio.cz/pronajem/bytu/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "sk": "https://www.flatio.sk/prenajom/bytu/porto-2+1-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "de-AT": "https://www.flatio.at/mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "de-DE": "https://www.flatio.de/mieten/wohnungen/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "en": "https://www.flatio.com/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "en-GB": "https://www.flatio.co.uk/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "es": "https://www.flatio.es/alquiler/piso/oporto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "nl": "https://www.flatio.nl/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "ru": "https://ru.flatio.com/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "pl": "https://www.flatio.pl/dzierzawa/apartament/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "hu": "https://www.flatio.hu/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "pt-PT": "https://www.flatio.pt/oferta/apartamento/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "th": "https://www.flatio.co.th/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "hr": "https://www.flatio.hr/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick",
+      "bg": "https://www.flatio.bg/offer/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
+    },
+    "listing_code": 95888,
+    "occupied_dates": [
+      {
+        "from": "2024-08-07",
+        "to": "2024-08-14"
+      }
+    ],
+    "cancellation_policy": "neighbourly",
+    "cancellation_policy_text": {
+      "pt": "Se cancelar a sua reserva 14 dias ou mais antes da data de mudança, receberá um reembolso da totalidade da primeira renda.\n\nSe cancelar a sua reserva até 7 dias antes da data de mudança, receberá um reembolso de metade da primeira renda.\n\nSe cancelar a sua reserva menos de 6 dias antes da data de mudança, não obterá o reembolso da primeira renda.\n\n",
+      "es": "Si cancelas tu reserva 14 o más días antes de entrar, te reembolsaremos por completo el primer alquiler.\n\nSi cancelas tu reserva  hasta 7 días antes de entrar, te reembolsaremos un 50%  del primer alquiler.\n\nSi cancelas tu reserva menos de 6 días antes de entrar, no te reembolsaremos  el primer alquiler.\n\n",
+      "hu": "Abban az esetben, ha lemondja a foglalást 14 vagy több nappal a beköltözés előtt, akkor visszatérítjük a teljes első havi bérleti díjat.\n\nAbban az esetben, ha lemondja a foglalást 7 nappal a beköltözés előtt, akkor visszatérítjük az első havi bérleti díj felét.\n\nAbban az esetben, ha lemondja a foglalást kevesebb mint 6 nappal a beköltözés előtt, nem térítjük vissza az első havi bérleti díjat.\n\n",
+      "en": "If you cancel your reservation 14 days or more before the move-in date, you’ll get a refund of the entire first rent.\n\nIf you cancel your reservation up to 7 days before the move-in date, you’ll get a refund of half of the first rent.\n\nIf you cancel your reservation less than 6 days before the move-in date, you won’t get a refund of the first rent.\n\n",
+      "cs": "Pokud svou rezervaci zrušíte 14 nebo více dnů před nastěhováním, vrátíme vám první nájem v plné výši.\n\nPokud svou rezervaci zrušíte do 7 dnů před nastěhováním, vrátíme vám polovinu prvního nájmu.\n\nPokud svou rezervaci zrušíte méně než 6 dnů před nastěhováním, první nájem nevracíme.\n\n",
+      "ru": "[VOID]\n\n",
+      "de": "[VOID]\n\n",
+      "pl": "[VOID]\n\n"
+    },
+    "amenities": {
+      "wifi": "yes",
+      "ac": "no",
+      "sauna": "no",
+      "heating": "yes",
+      "balcony": "no",
+      "tv": "yes",
+      "elevator": "yes",
+      "garage": "no",
+      "wheelchair_accessible": "no",
+      "whirlpool": "no",
+      "terrace": "no",
+      "dishwasher": "yes",
+      "washing_machine": "yes",
+      "dryer": "no",
+      "wardrobe": "yes",
+      "desk": "no",
+      "central_heating": "no",
+      "iron": "no",
+      "ironing_board": "no",
+      "dishes": "yes",
+      "cutlery": "yes",
+      "glasses": "yes",
+      "oven": "yes",
+      "coffee_maker": "yes",
+      "fridge": "yes",
+      "microwave": "yes",
+      "shower": "yes",
+      "bath": "no",
+      "bidet": "no"
+    },
+    "person_capacity": 2,
+    "guest_controls": {
+      "allows_children": null,
+      "allows_infants": null,
+      "allows_pets": false,
+      "allows_smoking": false,
+      "allows_events": false,
+      "suitable_for_families_with_children": false,
+      "check_in_time": "11:00",
+      "check_out_time": "17:00"
+    },
+    "photos": [
+      "https://flatiocdn.vshcdn.net/zoh4eiLi/IMG/2592000/j_aqzik49sfHDyxu55AIjj6mBaRvE8hEYpf9Znvd9AU/resize:fill:1000:0:1/gravity:ce/quality:90/aHR0cHM6Ly9hcHAuZmxhdGlvLmNvbS9jZG4vdXBsb2FkLzcvN2UvN2VjLzdlYzkvN2VjOTNlOTA2NDAxODM1NjhiYjNjNjA5NTYzMDQxZmIuanBn",
+      "https://flatiocdn.vshcdn.net/zoh4eiLi/IMG/2592000/D9HEFvw6dmacwUgBmeXvYD7odXrHBfU1dcrGtjDlf1E/resize:fill:1000:0:1/gravity:ce/quality:90/aHR0cHM6Ly9hcHAuZmxhdGlvLmNvbS9jZG4vdXBsb2FkLzUvNTcvNTdkLzU3ZGUvNTdkZTZhYTM5NTQ2OWRlY2JkZjQ4YjE4OTAyZTBiNTMuanBn",
+      "https://flatiocdn.vshcdn.net/zoh4eiLi/IMG/2592000/TCWy0c3dQYMJC9yDCLq8LPAlBEDDVQMCCXpE-3da07o/resize:fill:1000:0:1/gravity:ce/quality:90/aHR0cHM6Ly9hcHAuZmxhdGlvLmNvbS9jZG4vdXBsb2FkLzQvNGEvNGExLzRhMWEvNGExYTBkZDhlNjA5NTI4YjhmNDMyMDZmZmIwOGM3MDcuanBn"
+    ],
+    "updated_at": "2024-05-24",
+    "created_at": "2023-04-22"
+  }
+]
