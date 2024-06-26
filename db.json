@@ -120,6 +120,9 @@
     "listing_url": {
       "en": "rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
     },
+    "full_listing_url": {
+      "en": "https://www.flatio.cz/rent/apartment/porto-98327utm_content=95888&utm_medium=referral&utm_source=nestpick"
+   },
     "listing_code": 95888,
     "occupied_dates": [
       {
